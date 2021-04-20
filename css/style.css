@@ -9,7 +9,7 @@ h1{
 .container{
     background-color: #C4C4C4;
     text-align: center;
-    border: solid 2px yellowgreen;
+    /* border: solid 2px yellowgreen; */
     width: 50%;
     height: 510px;
     opacity: 0.7;
