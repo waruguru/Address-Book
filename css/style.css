@@ -1,12 +1,16 @@
-#show-contact {
-    display: none;
-  }
-  
-  .contact {
-    cursor: pointer;
-    color: #0088cc;
-  }
-  
-  .contact:hover {
-    text-decoration: underline;
-  }  
+.container{
+  background-color:grey;
+  width: 1000px;
+  height: 500px;
+}
+
+.button{
+  margin-top: 3%;
+}
+.form-group{
+  text-align: center;
+}
+
+body{
+  background-color: beige;
+}
